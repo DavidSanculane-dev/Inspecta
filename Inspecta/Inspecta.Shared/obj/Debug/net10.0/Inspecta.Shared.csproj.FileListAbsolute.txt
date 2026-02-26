@@ -1,0 +1,12 @@
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\bin\Debug\net10.0\Inspecta.Shared.deps.json
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\bin\Debug\net10.0\Inspecta.Shared.dll
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\bin\Debug\net10.0\Inspecta.Shared.pdb
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.AssemblyInfoInputs.cache
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.AssemblyInfo.cs
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.csproj.CoreCompileInputs.cache
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.sourcelink.json
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.dll
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\refint\Inspecta.Shared.dll
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\Inspecta.Shared.pdb
+C:\Users\david.sanculane\OneDrive - Mota-Engil\Ambiente de Trabalho\PROJECTOS SOFTWARE\Inspecta\Inspecta\Inspecta.Shared\obj\Debug\net10.0\ref\Inspecta.Shared.dll

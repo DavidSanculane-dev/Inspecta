@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Inspecta.Shared/1.0.0": {
+        "runtime": {
+          "Inspecta.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inspecta.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

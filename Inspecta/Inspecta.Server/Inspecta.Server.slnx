@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Inspecta.App/Inspecta.App.csproj" />
+  <Project Path="../Inspecta.Shared/Inspecta.Shared.csproj" />
+  <Project Path="Inspecta.Server.csproj" />
+</Solution>
