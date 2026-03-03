@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rBWcIe3v",
+  "version": "UPQK9k1u",
   "assets": [
     {
       "hash": "sha256-sN21AdyyGm6G1RpIiCiNIS1CHbXsoGql8oS5Y1XJlRo=",
@@ -10,20 +10,20 @@ self.assetsManifest = {
       "url": "_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js"
     },
     {
-      "hash": "sha256-h8F7j4kstsgcM/8XwQ05G8tc8mYMwNH49och8y8I+z8=",
-      "url": "_framework/Inspecta.App.3l51rde7an.pdb"
+      "hash": "sha256-Oe2clMj7XUlzIyzWYZouVaXgVnoR0AlzbSnqdIM0j8Y=",
+      "url": "_framework/Inspecta.App.pc3ldrjdur.pdb"
     },
     {
-      "hash": "sha256-Nwz1sPHGGMrbORNPs9rY5SWOSzZCTOIwHFnKnjCfIN0=",
-      "url": "_framework/Inspecta.App.xunc8i6csd.wasm"
+      "hash": "sha256-1Ia2+P2KW0utrIj9Fwr5R5AKu7fjKF2NjdeAwSyWpJw=",
+      "url": "_framework/Inspecta.App.sg1bd46ek5.wasm"
     },
     {
-      "hash": "sha256-oOIrNOghq7N2lEuSqWBFW+RIFeF9EVxJ+7FbILJr1NE=",
-      "url": "_framework/Inspecta.Shared.w8qbxaa7lz.wasm"
+      "hash": "sha256-HKE/yMhvA7mdxaXBYYVe4FWNAQ2QDBQvUGFTQ0JDmS8=",
+      "url": "_framework/Inspecta.Shared.cuiyfjz8c8.pdb"
     },
     {
-      "hash": "sha256-ZwGA/h+PJ14NBSNgRQm4kUVZKtElPCKoTK0qkRGzQQw=",
-      "url": "_framework/Inspecta.Shared.ztbixpr6rp.pdb"
+      "hash": "sha256-ebmfztdn3qs6KTb1QlDTHoazuZ76eqtC5f2undJpxmM=",
+      "url": "_framework/Inspecta.Shared.xms67fuwwv.wasm"
     },
     {
       "hash": "sha256-NVDsBhNtjt4lkD/U8hvDWbrk4zD10WGLJ49QfG9ghJ4=",
@@ -818,12 +818,12 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.66stpp682q.js"
     },
     {
-      "hash": "sha256-N5+2iI/5sboutHuGSUN15R+EfBKMKSAp3J/S04NjHxY=",
-      "url": "_framework/dotnet.js.map"
+      "hash": "sha256-I50f0I1hr8AvJHm5PN4B/7b6sE/VvkZ0fFZv0rbrmgo=",
+      "url": "_framework/dotnet.34xuac2qxu.js"
     },
     {
-      "hash": "sha256-aml2Cwhb2lORrFqzzdyopJMD98DJrw/O33Res/s1cfM=",
-      "url": "_framework/dotnet.m8uq3id9um.js"
+      "hash": "sha256-N5+2iI/5sboutHuGSUN15R+EfBKMKSAp3J/S04NjHxY=",
+      "url": "_framework/dotnet.js.map"
     },
     {
       "hash": "sha256-zE11fbcG2CeLl1Zi+NJgMOfWpdjuUWNte+icrtAO58I=",
@@ -878,7 +878,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-bPxs41lWAXZkmX7SjzvT+tIW+vmVrOL9PsPpxC9Vn5o=",
+      "hash": "sha256-AmJqTwiDZv92FWk02aVeoKEJEsIGSLvmM1IOnR/9KC0=",
       "url": "index.html"
     },
     {

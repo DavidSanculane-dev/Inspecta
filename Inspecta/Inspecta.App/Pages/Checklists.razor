@@ -1,0 +1,54 @@
+﻿@page "/checklists"
+@inject Inspecta.App.Services.ChecklistApi Api
+
+
+<h3>Checklists</h3>
+
+@if (_loading)
+{
+    <p>A carregar...</p>
+}
+else
+{
+    <ul>
+        @foreach (var c in _list)
+        {
+            <li>@c.Name (@c.Items?.Count ?? 0 itens)</li>
+        }
+    </ul>
+}
+
+<hr />
+<h4>Criar novo</h4>
+<input @bind="_newName" placeholder="Nome do checklist" />
+<button @onclick="Create">Criar</button>
+
+@code {
+    private bool _loading = true;
+    private List<Inspecta.Shared.Entities.Checklist> _list = new();
+    private string _newName = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAsync();
+    }
+
+    private async Task LoadAsync()
+    {
+        _loading = true;
+        _list = await Api.GetAllAsync() ?? new();
+        _loading = false;
+    }
+
+    private async Task Create()
+    {
+        if (string.IsNullOrWhiteSpace(_newName)) return;
+        var created = await Api.CreateAsync(new() { Name = _newName });
+        if (created is not null)
+        {
+            _newName = "";
+            await LoadAsync();
+        }
+    }
+}
+

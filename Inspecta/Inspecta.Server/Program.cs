@@ -17,9 +17,17 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 
+// Migrate + Seed inicial
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<InspectaDbContext>();
+    await DbSeeder.SeedAsync(db);
+}
+
 app.UseSwagger();
 app.UseSwaggerUI();
 app.MapChecklistEndpoints();
+app.MapInspectionEndpoints();
 app.MapGet("/", () => "Inspecta API Running...");
 
 app.Run();

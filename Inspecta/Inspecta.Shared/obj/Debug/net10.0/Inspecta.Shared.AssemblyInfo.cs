@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inspecta.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a8212215af27345a4fd5b0f533ece3dcd5dde6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1346719244fc2b2f9220946fa749c31f9fc06927")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inspecta.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inspecta.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
